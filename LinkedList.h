@@ -1,9 +1,4 @@
-/*
-	Ali Raza
-	20I-0782
-	Sec D
-	Project
-*/
+
 
 #ifndef LINKED_LIST_H_
 #define LINKED_LIST_H_

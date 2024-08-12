@@ -1,9 +1,4 @@
-/*
-	Ali Raza
-	20I-0782
-	Sec D
-	Project
-*/
+
 
 #ifndef TREE_H_
 #define TREE_H_

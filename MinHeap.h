@@ -1,9 +1,4 @@
-/*
-	Ali Raza
-	20I-0782
-	Sec D
-	Project
-*/
+
 
 #ifndef MIN_HEAP_H_
 #define MIN_HEAP_H_

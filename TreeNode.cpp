@@ -1,9 +1,4 @@
-/*
-	Ali Raza
-	20I-0782
-	Sec D
-	Project
-*/
+
 
 #ifndef TREE_NODE_CPP_
 #define TREE_NODE_CPP_

@@ -1,9 +1,3 @@
-/*
-	Ali Raza
-	20I-0782
-	Sec D
-	Project
-*/
 
 #ifndef MIN_HEAP_CPP_
 #define MIN_HEAP_CPP_
